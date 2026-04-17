@@ -2,13 +2,13 @@
 
 ## 🚀 Overview
 
-Customer churn is a major revenue risk in the telecom industry. This project builds a machine learning model to identify customers likely to churn and support data-driven retention strategies.
+Customer churn directly impacts revenue in the telecom industry, where retaining customers is significantly cheaper than acquiring new ones. This project builds a machine learning model to identify high-risk customers and enable proactive retention strategies.
 
 ---
 
 ## 🧠 Problem
 
-Telecom companies lose customers due to pricing, service quality, and contract flexibility. The challenge is to predict which customers are at risk of leaving before it happens.
+Telecom companies face high churn rates due to pricing, service quality, and competition. The challenge is to identify customers likely to churn before they leave, allowing targeted interventions.
 
 ---
 
