@@ -43,13 +43,12 @@ Telecom companies face high churn rates due to pricing, service quality, and com
 
 ---
 
-## 🔍 Key Insights
+🔍 Business Insights
+Customers on month-to-month contracts are most likely to churn
+Higher monthly charges significantly increase churn risk
+Fibre optic users show higher churn probability
 
-* Customers on month-to-month contracts have the highest churn risk
-* Higher monthly charges correlate strongly with churn
-* Fibre optic users show increased churn probability
-
-These insights can guide targeted retention strategies.
+👉 These insights can be used to design targeted retention strategies such as pricing optimization and contract incentives.
 
 ---
 
