@@ -36,9 +36,10 @@ Telecom companies lose customers due to pricing, service quality, and contract f
 
 ## 📊 Model Performance
 
-![ROC Curve](images/roc_curve.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![SHAP Summary](images/shap_summary.png)
+![ROC Curve](images/ROC-Curve-GB.png)
+![Confusion Matrix](images/churn-prediction-GB-Confusion-Matrix.png)
+![SHAP Summary](images/LIME-Tabular-Explainer.png)
+![Top 10 Important Features](images/Top-10-Important-Features.png)
 
 ---
 
