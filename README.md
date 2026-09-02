@@ -73,7 +73,7 @@ These findings help highlight customer characteristics associated with higher ch
 
 ### SHAP Feature Importance
 
-![SHAP Summary](images/SHAP-Tabular-Explainer.png)
+![SHAP Summary](images/LIME-Tabular-Explainer.png)
 
 ### Top Feature Importance
 
